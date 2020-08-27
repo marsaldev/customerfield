@@ -1,0 +1,17 @@
+{
+  "name": "marsaldev/customerfield",
+  "description": "Add new field to the customer (without override)",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Marco Salvatore",
+      "email": "marco.salvatore@prestashop.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PrestaShop\\Customerfield\\" : "src/"
+    }
+  },
+  "type": "prestashop-module"
+}
