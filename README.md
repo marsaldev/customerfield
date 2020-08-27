@@ -6,7 +6,8 @@ This repository provides an example on how to add a custom field to the customer
 
 ## Installation
 
-Download the master branch as zip, rename the folder in customerfield (remove the "-master" part), install as normal module as well
+* Download the master branch as zip, rename the folder in customerfield (remove the "-master" part), install as normal module as well, or clone repository in your /modules folder
+* Run composer dump-autoload in the module
 
 ## Contributing
 
