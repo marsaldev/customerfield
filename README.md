@@ -6,8 +6,9 @@ This repository provides an example on how to add a custom field to the customer
 
 ## Installation
 
-* Download the master branch as zip, rename the folder in customerfield (remove the "-master" part), install as normal module as well, or clone repository in your /modules folder
-* Run composer dump-autoload in the module
+* Download the master branch as zip or clone repository in your /modules folder, rename the folder in customerfield (remove the "-master" part) if any 
+* Run `composer dump-autoload` in the module
+* Install it as normal module, through backoffice or symfony console: `bin/console prestashop:module install customerfield`
 
 ## Contributing
 
